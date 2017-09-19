@@ -8,6 +8,8 @@
 
 如果你准备通过本文学习express的基本原理，前提条件最好有一定的express使用经验，写过一两个基于express的应用程序，否则对于其背后的原理理解起来难以产生共鸣，不易掌握。
 
+文章源码：https://github.com/WangZhechao/expross
+
 ## 2. 框架初始化
 
 在仿制express框架前，首先完成两件事。
